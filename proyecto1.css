@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+}
+h4{
+   text-align: right;
+}
+    ul{
+        margin: 0;
+        padding: 20;
+        background-color: rgb(0, 0, 0);
+        list-style: none;
+        overflow: hidden;
+    }
+    #sa{
+        
+            background-image: repeating-linear-gradient(red, yellow 10%, green 20%);
+    }
+    #as{
+        font-family:'Ubuntu', 'sans-serif';
+        font-size: 12px;
+        color: darkred;
+        border: red 5px none;
+    }
+    #ta{
+        border-radius: 45px;
+        border-color: E5B904;
+    }
+    #at{
+        border-radius: 45px;
+        border-color: E5B904;
+    }
+    li{
+        float: right;
+
+    }
+    li a{
+        display: block;
+        color: FFFFFF;
+        padding: 14px 18px;
+        text-decoration: none;
+    }
